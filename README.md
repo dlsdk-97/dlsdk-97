@@ -1,16 +1,29 @@
-## Hi there 👋
+# Backend Developer
 
-<!--
-**dlsdk-97/dlsdk-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Spring Boot 기반 서비스 개발을 중심으로 공부하고 있습니다.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Java
+- Spring Boot
+- JPA
+- REST API
+
+### Frontend
+- React
+- Web UI
+
+### Data / AI
+- Python
+- 데이터 분석
+- 머신러닝
+
+## Projects
+
+### AI 기반 완성차 자동 검수 플랫폼
+Spring Boot API와 관리자 페이지를 개발하고  
+AI 모델 결과를 웹 서비스에서 확인할 수 있도록 구현했습니다.
+
+### YouTube Trend Slack Bot
+유튜브 데이터를 수집하여 슬랙으로 자동 알림을 보내는 봇을 개발했습니다.
