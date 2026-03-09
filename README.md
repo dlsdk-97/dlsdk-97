@@ -9,6 +9,7 @@ Spring Boot 기반 서비스 개발을 중심으로 공부하고 있습니다.
 - Spring Boot
 - JPA
 - REST API
+- MySQL
 
 ### Frontend
 - React
@@ -18,6 +19,11 @@ Spring Boot 기반 서비스 개발을 중심으로 공부하고 있습니다.
 - Python
 - 데이터 분석
 - 머신러닝
+
+### Architecture
+- REST API
+- Microservice Architecture (MSA)
+- Event Driven (Kafka) 
 
 ## Projects
 
